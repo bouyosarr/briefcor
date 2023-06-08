@@ -10,7 +10,6 @@ header {
 display: flex;
 align-items: center;
 height: 100px;
-
 color: white;
 justify-content: space-between;
 }
@@ -24,7 +23,7 @@ justify-content: space-between;
 max-height: 500px;
 } 
 .image1 {
-margin-top: 70px;
+margin-top: 90px;
 margin-left: 120px;
 }
 .port {
@@ -35,15 +34,24 @@ font-size: 100px;
 transform: translate(-0%, -170%);
 color: white;
 }
-.monprofil1 {
-margin-top: 70px;
-margin-right: 50px;
+.texte1 {
+margin-top: 100px;
+margin-right: 20px;
 text-align: justify;
-font-size: 30px;
+font-size: 20px;
 line-height: 1,5;
+}
+.texte2{
+  font-size: 20px;
+  color: white;
+  margin-left: 40px;
+  margin-bottom: 30px;
 }
 .icon1{
   margin-top: 400px;
+  margin-right: 200px;
+  font-size: 70px;
+  color: #1F203A;
 }
 .page2 {
     height: 500px;
@@ -60,7 +68,7 @@ line-height: 1,5;
     margin-left: 200px;
 }
 .mes_activites {
-    color: white;
+    color: #1F203A;
     font-size: 20px;
     margin-left: 200px;
 }
