@@ -1,0 +1,161 @@
+  body{
+    margin: 0;
+    padding: 0;
+  }
+  .tout{
+    background-color: #1F203A;
+    height: 3200px;
+  }
+header {
+display: flex;
+align-items: center;
+height: 100px;
+
+color: white;
+justify-content: space-between;
+}
+.le_logo {
+  margin-left: 50px;
+}
+.page1 {
+display: flex;
+background-color: #FCEB21;
+justify-content: space-between;
+max-height: 500px;
+} 
+.image1 {
+margin-top: 70px;
+margin-left: 120px;
+}
+.port {
+position: absolute;
+margin-left: 330px;
+align-items: center;
+font-size: 100px;
+transform: translate(-0%, -170%);
+color: white;
+}
+.monprofil1 {
+margin-top: 70px;
+margin-right: 50px;
+text-align: justify;
+font-size: 30px;
+line-height: 1,5;
+}
+.icon1{
+  margin-top: 400px;
+}
+.page2 {
+    height: 500px;
+}
+.je_suis_designer {
+    margin-top: 300px;
+    margin-left: 200px;
+    color: white;
+    font-size: 130px;
+}
+.leader {
+    color: white;
+    font-size: 30px;
+    margin-left: 200px;
+}
+.mes_activites {
+    color: white;
+    font-size: 20px;
+    margin-left: 200px;
+}
+.envoyer1 {
+  text-align: center;
+  background-color: #FCEB21;
+  border: 0px solid;
+  position: absolute;
+  padding: 20px 40px 20px 40px;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-left: 200px;
+}
+.page3 {
+    display: flex;
+    justify-content: space-between;
+}
+.image2{
+ margin-left: 150px;
+}
+.image3{
+margin-left: 150px;
+}
+.image4{
+margin-left: 150px;
+}
+.photo5 {
+margin-right: 90px;
+}
+.photo8 {
+  margin-right: 160px;
+}
+.page5 {
+  align-items: center;
+}
+.lien_freepik {
+  color: white;
+  font-size: 20px;
+  margin-left: 600px;
+}
+.envoyer3 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 600px;
+border-bottom: solid;
+background-color: #FCEB21;
+padding: 20px 40px 20px 40px;
+text-transform: uppercase;
+  font-weight: bold;
+}
+.page4 {
+  display: flex;
+  background-color: #FCEB21;
+  justify-content: space-around;
+  height: 500px;
+  padding: 40px;
+  
+}
+
+.email_text {
+  font-size: 20px;
+  border: 0px;
+  border-bottom: 2px solid black;
+  background-color: transparent !important;
+  width: 60%;
+  padding: 50px 30px 0px 0px;
+}
+.message-bt {
+  width: 60%;
+  border-bottom: 2px solid black !important;
+  padding: 75px 30px 0px 0px;
+  /* height: 100px; */
+  border: 0px;
+  background-color: transparent !important;
+}
+
+.btnEnvoyer {
+margin-top: 30px;
+text-transform: uppercase;
+padding: 10px 40px 10px 40px;
+border: 2px solid black;
+font-weight: bold;
+background-color: #FCEB21;
+}
+
+.sent_bt3 {
+ float: left;
+ margin-top: 320px;
+ margin-bottom: 1px;
+}
+footer {
+
+height: 110px;
+}
+.pied_page {
+text-align: center;
+color: white;
+}
