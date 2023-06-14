@@ -11,10 +11,13 @@ display: flex;
 align-items: center;
 height: 100px;
 color: white;
-justify-content: space-between;
+justify-content: space-around;
 }
-.le_logo {
-  margin-left: 50px;
+.le_logo{
+  margin-right: 350px;
+}
+.fa-bars{
+  margin-left: 350px;
 }
 .page1 {
 display: flex;
@@ -43,7 +46,7 @@ line-height: 1,5;
 }
 .texte2{
   font-size: 20px;
-  color: white;
+  color: black;
   margin-left: 40px;
   margin-bottom: 30px;
 }
@@ -68,7 +71,7 @@ line-height: 1,5;
     margin-left: 200px;
 }
 .mes_activites {
-    color: #1F203A;
+    color: white;
     font-size: 20px;
     margin-left: 200px;
 }
@@ -86,24 +89,16 @@ line-height: 1,5;
     display: flex;
     justify-content: space-between;
 }
-.image2{
- margin-left: 150px;
+.bloc1 {
+margin-left: 190px;
 }
-.image3{
-margin-left: 150px;
+.bloc2 {
+
 }
-.image4{
-margin-left: 150px;
+.bloc3 {
+margin-right: 190px;
 }
-.photo5 {
-margin-right: 90px;
-}
-.photo8 {
-  margin-right: 160px;
-}
-.page5 {
-  align-items: center;
-}
+
 .lien_freepik {
   color: white;
   font-size: 20px;
